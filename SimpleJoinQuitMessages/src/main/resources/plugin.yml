@@ -1,0 +1,14 @@
+name: Simplejoinquitmessages
+version: ${project.version}
+main: com.mehmet_27.simplejoinquitmessages.Main
+api-version: 1.16
+authors: [ Mehmet_27 ]
+description: Simple join quit message plugin.
+commands:
+  joinquitmessages:
+    description: Main command
+    permission: joinquitmessages.admin
+permissions:
+  joinquitmessages.admin:
+    default: op
+    description: Provides full access to the plugin

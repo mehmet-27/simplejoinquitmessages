@@ -1,0 +1,3 @@
+messages:
+  join: "&7[&a+&7] &r%player%"
+  quit: "&7[&c-&7] &r%player%"
